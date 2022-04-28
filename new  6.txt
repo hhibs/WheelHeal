@@ -1,0 +1,531 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=1000" />
+<meta name="author" content="NEWPAGES.com.my" />
+<title>Renovation Selangor, Design Build Bungalow Projects Klang Valley, Malaysia | Best Contractor - Mettasia Construction</title>
+<meta name="description" content="Our Services include Renovation Works, Construction, Home Extension, Interior Design, Office Supplies, Buy & Sell Land, Architectural Design, Quantity Surveying, Financing Solution." />
+<meta name="keywords" content=" Design, Build, Renovation Our Services include Renovation Works, Construction, Home Extension, Interior Design, Office Supplies, Buy & Sell Land, Architectural Design, Quantity Surveying, Financing Solution.      Mettasia Construction Sdn Bhd Kepong, Kuala Lumpur (KL), Malaysia. http://www.mettasia.com.my">
+<meta name="google-site-verification" content="" />
+<meta name="y_key" content="">
+<meta name="msvalidate.01" content="" />
+
+<link href="http://newpages2u.com/default_style/font-awesome/css/font-awesome.css" type="text/css" rel="stylesheet" />
+<link href="http://newpages2u.com/default_style/general_v1.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://newpages2u.com/default_style/style.php?id=cac8ec2e0e8d39ca1612df964d942c01" rel="stylesheet" type="text/css" media="screen" />
+<link rel="shortcut icon" href="http://www.newpages2u.com/images/1396853514favicon.ico" type="image/ico">
+
+<meta name="robots" content="all">
+<meta http-equiv="imagetoolbar" content="no">
+
+<link href="http://www.newpages2u.com/np3_mettasia/style.css" rel="stylesheet" type="text/css" media="screen" />
+
+<style type="text/css">
+ul.nav-menu{
+	width:1000px;
+}
+.top-message{
+		position:relative;
+		left:inherit;
+		right:inherit;
+		font-size:16px;
+}
+#shopping-cart{
+	position:fixed;
+}
+#header { 
+	margin: 0; 
+	width: 1000px; 
+	height: 200px; 	 
+}
+#allbanner { 
+	margin: 0; 
+	width: 1000px; 
+	height: 0px; 	 	
+}
+.content { 
+	width: 1000px;
+}
+
+#main { 
+	width: 1000px;
+}
+#main .left {  	width: 780px;  	
+}
+</style>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+function viewProducts(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'scrollbars=1,resizable=1,width=800px,height=600,left = 25,top = 25');");
+}
+// End -->
+</script>	
+
+
+<style type="text/css">
+.nav ul li:hover ul{
+	background:#ffffff;
+}
+</style>
+<script src="http://newpages2u.com/scripts/jquery-1.10.1.min.js"></script>
+<link rel="stylesheet" href="http://newpages2u.com/scripts/ui/jquery-ui.min.css" />
+<link rel="stylesheet" href="http://newpages2u.com/scripts/ui/jquery-ui.theme.min.css" />
+
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=827492860680361";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+	
+	<div class="content header">
+  	
+  
+<!-- HEADER START --><div class="topspace" style="width:1000px"><img alt="" src="http://www.newpages2u.com/userfiles/18111/image/header5.jpg" style="width: 1000px; height: 108px; border-width: 0px; border-style: solid;" usemap="#Map" /><map name="Map"><area coords="841,40,977,78" href="https://www.facebook.com/pages/Mettasia-Construction-Sdn-Bhd/175453952626809" shape="rect" target="_blank" /> <area coords="763,29,820,87" href="http://www.houzz.com/pro/mettasia-construction/mettasia-construction-sdn-bhd" shape="rect" target="_blank" /></map></div><div class="nav"><ul class="mainmenu" style="margin:0 auto;"><li><a class="firstchild " href="index.php"><span>Home</span></a></li><li><a href="index.php?ws=pages&pages_id=5405"><span>Why Choose Us</span></a></li><li><a href="index.php?ws=pages&pages_id=5238"><span>About Us</span></a></li><li class="with-dropdown"><a href="javascript:void(0)"><span>Design & Build</span></a><ul class="sub"><li class="with-sub"><a href="javascript:void(0);">Bungalow</a><ul class="sub-extend"><li><a href="index.php?ws=services&cid=308&sid=1192">Bungalow Design</a></li></ul></li><li class="with-sub"><a href="javascript:void(0);">Office and Factory</a><ul class="sub-extend"><li><a href="index.php?ws=services&cid=309&sid=1193">Office and Factory</a></li></ul></li><li class="with-sub"><a href="javascript:void(0);">Features</a><ul class="sub-extend"><li><a href="index.php?ws=services&cid=307&sid=1186">Dash of Nature</a></li><li><a href="index.php?ws=services&cid=307&sid=1187">Green Living</a></li><li><a href="index.php?ws=services&cid=307&sid=1188">High-tech Homes</a></li><li><a href="index.php?ws=services&cid=307&sid=1189">Lavish Lodgings</a></li><li><a href="index.php?ws=services&cid=307&sid=1190">Peace of Mind</a></li><li><a href="index.php?ws=services&cid=307&sid=1191">Worry-Free Water</a></li></ul></li><li class="with-sub"><a href="javascript:void(0);">Project Flow</a><ul class="sub-extend"><li><a href="index.php?ws=services&cid=324&sid=1248">Project flow</a></li></ul></li></ul></li><li class="with-dropdown"><a href="javascript:void(0)"><span>Our Services</span></a><ul class="sub"><li class="with-sub"><a href="javascript:void(0);">Bungalow Design and Build</a><ul class="sub-extend"><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 1 - The DnB concept">Stage 1 - The DnB concept</a></li><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 2 - 3D model draft">Stage 2 - 3D model draft</a></li><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 3 - Working drawings and submission">Stage 3 - Working drawings and submission</a></li><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 4 - Construction begin">Stage 4 - Construction begin</a></li></ul></li><li class="with-sub"><a href="javascript:void(0);">Renovation and Remodel</a><ul class="sub-extend"><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Attic conversions">Attic conversions</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Bathroom upgrades">Bathroom upgrades</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Conservatories (Green house)">Conservatories (Green house)</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Driveways">Driveways</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Garages and Car porch">Garages and Car porch</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Landscaping">Landscaping</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Painting and decorating">Painting and decorating</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Plaster ceiling works">Plaster ceiling works</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Plastering">Plastering</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Plumbing">Plumbing</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Rewiring">Rewiring</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Septic tank repair or replacement">Septic tank repair or replacement</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Staircase">Staircase</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Stone Cladding">Stone Cladding</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Supply and fitting of kitchens">Supply and fitting of kitchens</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Supply and fitting of solar panels">Supply and fitting of solar panels</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Supply and fitting of windows and doors">Supply and fitting of windows and doors</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Tiling">Tiling</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Timber flooring">Timber flooring</a></li></ul></li><li class="with-sub"><a href="javascript:void(0);">Home Extension</a><ul class="sub-extend"><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Single storey extension">Single storey extension</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Double or multiple storey extension">Double or multiple storey extension</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Over structure extension">Over structure extension</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Basement conversion">Basement conversion</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Garages conversion">Garages conversion</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Loft conversion">Loft conversion</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Porches extension">Porches extension</a></li></ul></li><li class="with-sub"><a href="javascript:void(0);">Interior Design</a><ul class="sub-extend"><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Bathroom design">Bathroom design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Bedroom design">Bedroom design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Dining hall design">Dining hall design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Kitchen design">Kitchen design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Living and Dining Hall design">Living and Dining Hall design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Living hall design">Living hall design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Study room design">Study room design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Wardrobe design">Wardrobe design</a></li></ul></li><li><a href="index.php?ws=ourproducts&cat=Architectural Design">Architectural Design</a></li><li><a href="index.php?ws=ourproducts&cat=Construction">Construction</a></li><li><a href="index.php?ws=ourproducts&cat=Office Supplies">Office Supplies</a></li></ul></li><li><a href="index.php?ws=photoalbum"><span>Gallery</span></a></li><li><a href="index.php?ws=latestnews"><span>Latest Deals</span></a></li><li><a class="lastchild " href="index.php?ws=contactus"><span>Contact Us</span></a></li></ul></div>
+<div class="float-nav"><ul class="nav-menu" style="margin:0 auto;"><li><a class="firstchild " href="index.php"><span>Home</span></a></li><li><a class="firstchild " href="index.php?ws=pages&pages_id=5405"><span>Why Choose Us</span></a></li><li><a class="firstchild " href="index.php?ws=pages&pages_id=5238"><span>About Us</span></a></li><li class="with-dropdown"><a class="firstchild " href="javascript:void(0)"><span>Design & Build</span></a><ul class="float-sub"><li class="float-with-sub"><a href="javascript:void(0);">Bungalow</a><ul class="float-sub-extend"><li><a href="index.php?ws=services&cid=308&sid=1192">Bungalow Design</a></li></ul></li><li class="float-with-sub"><a href="javascript:void(0);">Office and Factory</a><ul class="float-sub-extend"><li><a href="index.php?ws=services&cid=309&sid=1193">Office and Factory</a></li></ul></li><li class="float-with-sub"><a href="javascript:void(0);">Features</a><ul class="float-sub-extend"><li><a href="index.php?ws=services&cid=307&sid=1186">Dash of Nature</a></li><li><a href="index.php?ws=services&cid=307&sid=1187">Green Living</a></li><li><a href="index.php?ws=services&cid=307&sid=1188">High-tech Homes</a></li><li><a href="index.php?ws=services&cid=307&sid=1189">Lavish Lodgings</a></li><li><a href="index.php?ws=services&cid=307&sid=1190">Peace of Mind</a></li><li><a href="index.php?ws=services&cid=307&sid=1191">Worry-Free Water</a></li></ul></li><li class="float-with-sub"><a href="javascript:void(0);">Project Flow</a><ul class="float-sub-extend"><li><a href="index.php?ws=services&cid=324&sid=1248">Project flow</a></li></ul></li></ul></li><li class="with-dropdown"><a class="firstchild " href="javascript:void(0)"><span>Our Services</span></a><ul class="float-sub"><li class="float-with-sub"><a href="javascript:void(0);">Bungalow Design and Build</a><ul class="float-sub-extend"><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 1 - The DnB concept">Stage 1 - The DnB concept</a></li><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 2 - 3D model draft">Stage 2 - 3D model draft</a></li><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 3 - Working drawings and submission">Stage 3 - Working drawings and submission</a></li><li><a href="index.php?ws=ourproducts&cat=Bungalow Design and Build&subcat=Stage 4 - Construction begin">Stage 4 - Construction begin</a></li></ul></li><li class="float-with-sub"><a href="javascript:void(0);">Renovation and Remodel</a><ul class="float-sub-extend"><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Attic conversions">Attic conversions</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Bathroom upgrades">Bathroom upgrades</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Conservatories (Green house)">Conservatories (Green house)</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Driveways">Driveways</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Garages and Car porch">Garages and Car porch</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Landscaping">Landscaping</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Painting and decorating">Painting and decorating</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Plaster ceiling works">Plaster ceiling works</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Plastering">Plastering</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Plumbing">Plumbing</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Rewiring">Rewiring</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Septic tank repair or replacement">Septic tank repair or replacement</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Staircase">Staircase</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Stone Cladding">Stone Cladding</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Supply and fitting of kitchens">Supply and fitting of kitchens</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Supply and fitting of solar panels">Supply and fitting of solar panels</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Supply and fitting of windows and doors">Supply and fitting of windows and doors</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Tiling">Tiling</a></li><li><a href="index.php?ws=ourproducts&cat=Renovation and Remodel&subcat=Timber flooring">Timber flooring</a></li></ul></li><li class="float-with-sub"><a href="javascript:void(0);">Home Extension</a><ul class="float-sub-extend"><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Single storey extension">Single storey extension</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Double or multiple storey extension">Double or multiple storey extension</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Over structure extension">Over structure extension</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Basement conversion">Basement conversion</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Garages conversion">Garages conversion</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Loft conversion">Loft conversion</a></li><li><a href="index.php?ws=ourproducts&cat=Home Extension&subcat=Porches extension">Porches extension</a></li></ul></li><li class="float-with-sub"><a href="javascript:void(0);">Interior Design</a><ul class="float-sub-extend"><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Bathroom design">Bathroom design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Bedroom design">Bedroom design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Dining hall design">Dining hall design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Kitchen design">Kitchen design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Living and Dining Hall design">Living and Dining Hall design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Living hall design">Living hall design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Study room design">Study room design</a></li><li><a href="index.php?ws=ourproducts&cat=Interior Design&subcat=Wardrobe design">Wardrobe design</a></li></ul></li><li><a href="index.php?ws=ourproducts&cat=Architectural Design">Architectural Design</a></li><li><a href="index.php?ws=ourproducts&cat=Construction">Construction</a></li><li><a href="index.php?ws=ourproducts&cat=Office Supplies">Office Supplies</a></li></ul></li><li><a class="firstchild " href="index.php?ws=photoalbum"><span>Gallery</span></a></li><li><a class="firstchild " href="index.php?ws=latestnews"><span>Latest Deals</span></a></li><li><a class="lastchild " href="index.php?ws=contactus"><span>Contact Us</span></a></li></ul></div></div><script type="text/javascript" src="http://newpages2u.com/slider/scripts/jquery.nivo.slider.js"></script>
+<link rel="stylesheet" href="http://newpages2u.com/slider/css/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://newpages2u.com/slider/css/nivo-slider.css" type="text/css" media="screen" />
+<style type="text/css">
+#header-slide{
+	margin:0 auto;
+	max-width:1400px;
+	width:1000px;
+	min-height:410px}
+</style>
+<div id="header-slide">
+<div class="slider-wrapper theme-default">
+  <div id="slider" class="nivoSlider">
+  	<img src="http://newpages2u.com/images/1399006355slide4.jpg" data-thumb="" alt="" />
+<img src="http://newpages2u.com/images/1399006365slide3.jpg" data-thumb="" alt="" />
+<img src="http://newpages2u.com/images/1399006377slide2.jpg" data-thumb="" alt="" />
+<img src="http://newpages2u.com/images/1399006387slide1.jpg" data-thumb="" alt="" />
+  </div>
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(e) {
+	$('#slider').nivoSlider({
+		effect:'random',
+		pauseTime: 5000,
+		directionNav: true,
+		controlNav: true,
+		pauseOnHover: false
+	});
+})
+</script>
+<div class="content"><div style='width:1000; margin:0px; padding:0px; '><span style="display:inline-block;vspace=3; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.newpages2u.com/imageshome/1396514588hslide.jpg');"><img src="http://www.newpages2u.com/imageshome/1396514588hslide.jpg" border=0 style="filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); " /></span><table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="1000">
+	<tbody>
+		<tr>
+			<td>
+				<br />
+				<br />
+				<table border="0" cellpadding="0" cellspacing="0" width="1000">
+					<tbody>
+						<tr>
+							<td align="center" class="content_f">
+								<span style="font-size:26px;">BUILDING DREAM HOMES SINCE 2009</span></td>
+						</tr>
+					</tbody>
+				</table>
+				<br />
+				<table width="1000">
+					<tbody>
+						<tr>
+							<td align="center" height="100px" style="padding:20px 10px" valign="top" width="333">
+								<strong><span style="color:#242424;"><span style="font-size:22px;">WHAT WE BELIEVE</span></span></strong><br />
+								<br />
+								<span style="color:#a90000;"><span style="font-size:16px;">Mettasia Construction</span></span><br />
+								<br />
+								<img alt="" src="http://www.newpages2u.com/userfiles/18111/image/content1(4).jpg" style="width: 300px; height: 158px;" /></td>
+							<td align="center" height="100px" style="padding:20px 10px" valign="top" width="334">
+								<span style="color:#242424;"><strong><span style="font-size:22px;">WHAT WE DO</span></strong></span><br />
+								<br />
+								<span style="color:#a90000;"><span style="font-size:16px;">Total Solutions Provider For Building Your Dream Home</span></span><br />
+								<br />
+								<img alt="" height="145" src="http://www.newpages2u.com/userfiles/18111/image/content2.jpg" style="width: 300px; height: 158px;" width="276" /></td>
+							<td align="center" height="100px" style="padding:20px 10px" valign="top" width="333">
+								<span style="color:#242424;"><strong><span style="font-size:22px;">WANT TO KNOW MORE?</span></strong></span><br />
+								<br />
+								<span style="color:#a90000;"><span style="font-size:16px;">You can contact us at</span></span><br />
+								<br />
+								<img alt="" src="http://www.newpages2u.com/userfiles/18111/image/content3(2).jpg" style="width: 300px; height: 158px;" /></td>
+						</tr>
+						<tr>
+							<td align="center" style="padding: 0 10px" valign="top" width="333">
+								At Mettasia Construction, we believe that everyone deserves a dream home. We aspire to assist you in realizing this dream by helping you add a personal touch in creating your very own private abode. Our teams of architects and craftsmen are seasoned and very experienced; yet they lack no enthusiasm and creativity in ensuring that your vision gets transformed into reality.</td>
+							<td align="center" style="padding: 0 10px" valign="top" width="334">
+								<span style="padding:20px 10px">Assurance of quality and convenience is what we offer our clients. We provide complete solutions for clients who yearn to personalize their dream homes, even from scratch! Our team of experts in every relevant field, from architectural designing, interior designing and construction planning to the execution team of the entire construction process, work closely with our clients to ensure that the end result is nothing less than perfect.</span></td>
+							<td align="center" style="padding: 0 10px" valign="top" width="333">
+								<span style="padding: 20px 10px; font-size: 16px;"><strong>Tel: </strong>012-338 8478 Jacky Chew,&nbsp;<br />
+								016-421 3986 Amy Chew<br />
+								<strong>Fax: </strong>603-6250 8726<br />
+								<strong>Email: </strong><a href="mailto:enquiry@mettasia.com.my">enquiry@mettasia.com.my</a></span></td>
+						</tr>
+					</tbody>
+				</table>
+				<br />
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div><a name="openproducts"></a>
+
+
+<div class="downspace" style="width:1000px"><table bgcolor="#dedede" border="0" cellpadding="0" cellspacing="0" height="40" width="1000">
+	<tbody>
+		<tr>
+			<td align="center">
+				<table border="0" cellpadding="0" cellspacing="0" width="500">
+					<tbody>
+						<tr>
+							<td align="center" width="200">
+								<span style="font-size:14px;"><a href="index.php?ws=career">Career</a></span></td>
+							<td align="center" width="200">
+								<span style="font-size:14px;"><a href="index.php?ws=pages&amp;pages_id=5371">T&amp;C</a></span></td>
+							<td align="center" width="200">
+								<span style="font-size:14px;"><a href="index.php?ws=pages&amp;pages_id=5372">Privacy Policy</a></span></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+		<div id="footer">
+			<div class="info">
+
+
+								&nbsp; &copy 2014 - 2015 <strong>Mettasia Construction Sdn Bhd</strong> (861661-A) 												&nbsp;&nbsp;&nbsp;
+		Visitors: 114840<br><strong>GST No.:</strong> 001302183936  				
+		
+		<span class="poweredby"><b>Powered by</b> <a href="http://www.newpages.com.my" target="_blank">NEWPAGES</a></span>
+
+
+
+</div> 
+    </div>
+		
+</div>
+
+
+
+  <style type="text/css">
+	#switch-mobile{
+		text-align:center; 
+		padding:20px 0; 
+		background-color:#EF1A20; 
+		display:none; 
+		font-size:300%;
+		position:fixed;
+		bottom:0;
+		width:100%;
+		z-index:9999;
+	}
+	#switch-mobile i,
+	#switch-mobile a{
+		color:#fff; 
+	}
+	#switch-mobile img{
+		max-height:25px;
+	}
+		
+	/* Smartphones (portrait and landscape) ----------- */  
+@media only screen   
+and (min-device-width : 320px)   
+and (max-device-width : 480px) {  
+	#switch-mobile{
+		font-size:500%;
+		padding:30px 0;
+	}
+}  
+
+	</style>
+ 	<div id="switch-mobile"><i class="fa fa-mobile"></i> <a href="http://m.mettasia.com.my">Switch to Mobile Version</a></div>
+<a href="#" id="back-to-top"><i class="fa fa-arrow-circle-up"></i></a>
+
+
+<script src="http://newpages2u.com/scripts/ui/jquery-ui.min.js"></script>
+<script src="http://newpages2u.com/scripts/jquery.matchHeight-min.js"></script>
+<script src="http://newpages2u.com/scripts/jquery.dotdotdot.min.js"></script>
+<script type="text/javascript">
+
+function continue_shopping(){
+	$(".top-message").fadeOut(300);
+}
+
+function check(){
+	if($(window).scrollTop() > nav_pos+20){
+		$('.float-nav').css('display','block');
+	}else{
+		$('.float-nav').css('display','none');
+	}
+	
+	if(animate == 'off'){
+		animate = 'on';
+		
+		if($(window).scrollTop() < 30) {
+			$("#back-to-top").animate({'bottom':'-50'},{
+					queue:false,
+					duration:500,
+					complete:function(){
+						animate = 'off';
+						check();
+					}
+				});
+		}else{
+
+			$("#back-to-top").animate({'bottom':'30'},{
+					queue:false,
+					duration:500,
+					complete:function(){
+						animate = 'off';
+						check();
+					}
+				});
+		}
+	}
+}
+	
+$(document).ready(function() {
+	
+	$('#slider').on('contextmenu', 'img', function(e) {
+    return false;
+	});
+	
+	nav_pos = Math.ceil($(".nav").offset().top);
+	
+	animate = 'off';
+	
+	if($(window).scrollTop() > 10){
+		$("#back-to-top").css('bottom','30');
+	}
+	
+	$('#back-to-top').click(function(){
+		$('html, body').animate({ scrollTop: 0 }, 'slow');
+	});
+	
+	check();
+	$(window).scroll(check);
+	
+	$.get('ismobile.php',function(data){
+		if(data == 'mobile'){
+			$("#switch-mobile").css('display','block');
+		}
+	});	
+	
+		$(".imgbtn").parent().mouseenter(function(){
+		$(this).find('.menunormal').css("display","none");
+		$(this).find('.menurollover').css("display","block");
+	});
+	$(".imgbtn").parent().mouseleave(function(){
+		$(this).find('.menunormal').css("display","block");
+		$(this).find('.menurollover').css("display","none");
+	});
+	
+	
+	/* Shopping Cart */
+	function cart(){
+		var action	= $(this).attr('action');
+		
+		var pid			= $(this).attr('pid');
+		
+		var qty	= $("#product-qty.p"+pid).val();			
+		
+		if(action == 'add-option'){
+			pid			= $("#product-option.p"+pid).val();
+			action	= 'add';
+		}
+				
+		$.post("np_add_cart.php",{
+			lang				: '',
+			product_id	: pid,
+			action			: action,
+			product_qty	: qty
+		},function(data,status){
+			
+			var curPage = '';
+			var showBar = true;
+			
+			var product_name	= data['product_name'];
+			var product_total	= data['total_items'];
+			var stock_balance = data['stock_balance'];
+			var error_msg = data['error_msg'];
+			
+			$(".top-total-items > span").html(product_total);
+			$(".float-cart > span").html(product_total);
+			
+			if(!product_name){
+				product_name = "a product";
+			}
+			
+			if(data['error_msg']){
+				alert(data['error_msg']);
+			}else{
+				switch(action){
+					case 'remove':
+					case 'update':
+					case 'clear':	
+						showBar = false;
+						location.reload();
+					break;
+					case 'add':
+						if(curPage == 'checkout'){
+							showBar = false;
+							location.reload();
+						}
+						//$("#in_stock").html(stock_balance);
+						//$(".stock-qty").load("np_check_stock.php",{'pid':pid});
+						
+						if (typeof check_stock == 'function') { 
+							check_stock(pid);
+						}
+						
+						if(error_msg){
+							alert(error_msg);
+						}
+					break;
+				}
+			}
+			
+			if(product_total > 0 && showBar){
+					if(action == 'add'){
+						$(".message").html('You just added <strong id="add-product-name">'+product_name+'</strong>.');
+					}else{
+						$(".message strong").html(product_total);
+					}
+					
+					msgbox = $(".top-message");
+					
+					if(msgbox.is(":hidden")){
+						
+							$("#shopping-cart").css("position","fixed");
+							msgbox.slideDown({
+								duration:300,
+								step:function(){
+									h = $("#shopping-cart").outerHeight();
+									$("body").css("background-position","center "+h+"px");
+									if($(".top-message").is(":visible")){
+										$("body").css("margin-top",h+"px");
+									}
+								},
+								complete:function(){
+									var hash = (window.location.hash).replace('#','');
+									
+									if(window.location.hash){
+										var pos = $("a[name*='"+hash+"']").offset();
+										$("html,body").animate({
+											scrollTop:pos.top - h
+										},1000);
+									}					
+								}
+							});
+						
+					}
+			}
+		});
+	}
+	function numberWithCommas(x) {
+		num = x.toFixed(2);
+    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+	}
+	// check shopping cart
+	cart();
+	
+	$('a.add-cart, a.update-item, a.remove-item').click(cart);
+	
+	$("a.btn-clear").click(function(e){
+		//alert('clear');
+		$.post("np_add_cart.php",{action:'clear'},function(data,status){
+			location.reload();
+		});
+	});
+	
+	// prevent "enter" submit in qty fields
+	$("input[type=text]#product-qty").keypress(function(e){		
+		if(e.keyCode == '13'){
+			e.preventDefault();
+			var item_no = $(this).attr("class");
+			
+			$("a[class*='update-item "+item_no+"']").trigger("click");
+		}
+	})
+	
+	// prevent number in qty fields
+	$("input[type=text]#product-qty").keydown(function(e) {
+			// Allow special chars + arrows 
+			if (e.keyCode == 46 || e.keyCode == 8 || e.keyCode == 9 
+					|| e.keyCode == 27 || e.keyCode == 13 
+					|| (e.keyCode == 65 && e.ctrlKey === true) 
+					|| (e.keyCode >= 35 && e.keyCode <= 39)){
+							return;
+			}else {
+					if (e.shiftKey || (e.keyCode < 48 || e.keyCode > 57) && (e.keyCode < 96 || e.keyCode > 105 )) {
+							e.preventDefault(); 
+					}   
+			}
+	});
+	
+	// select payment method
+	$("#payment_method").change(function(e){
+		var payment_method = $(this).val();
+		
+		$(".payment_description").show();
+		$(".payment-method-desc").hide();
+		if($(".payment-method-desc").hasClass(payment_method)){
+			$("."+payment_method).show();
+		}else{
+			$(".payment_description").hide();
+		}
+	});
+	
+	// select shipping charge
+	$("#shipping_charge").on('keydown change',function(e){
+		var extra_shipping = $(this).children(":selected").attr('price');
+		if(extra_shipping){
+			extra_shipping = parseFloat(extra_shipping);
+		}
+		var extra_shipping_gst = parseFloat($(this).children(":selected").attr('gst'));
+		var summary_amount = parseFloat($("#sub-amount").attr('data'));
+		var summary_gst = parseFloat($("#sub-gst").attr('data'));
+		var total_amount = parseFloat($("#total-amount").attr('data'));
+		var currency_sign = "RM";
+		
+		var shipping_id = $(this).val();
+		
+		$('[id^="sid"]').hide();
+		$("#sid"+shipping_id).css('display','block');
+		
+		$("#sub-amount").html(currency_sign+' '+numberWithCommas(summary_amount+extra_shipping));
+		$("#sub-gst").html(currency_sign+' '+numberWithCommas(summary_gst+extra_shipping_gst));
+		
+		if(!extra_shipping){
+			$("#shipping-charge").html('-');
+			$("#total-amount").html(currency_sign+' '+numberWithCommas(total_amount));
+		}else{
+				$("#shipping-charge").html(currency_sign+' '+numberWithCommas(extra_shipping));
+		$("#total-amount").html(currency_sign+' '+numberWithCommas(total_amount+extra_shipping));
+				}
+	});
+	/* END Shopping Cart */
+});
+
+	function IsEmail(email) {
+		var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		return regex.test(email);
+	}
+</script>
+</body>
+</html>
